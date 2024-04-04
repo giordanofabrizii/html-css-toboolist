@@ -65,5 +65,33 @@ button {
 
 #task-section {
     background-color: white;
-    height: 40rem;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    padding: 2rem 3rem;
+}
+
+ul {
+    list-style-type: none;
+    margin-bottom: 2rem;
+}
+
+li {
+    line-height: 2rem;
+}
+
+.checkbox{
+    height: 1.5rem;
+    border-radius: 50%;
+    padding: 0.2rem;
+    margin-right: 0.5rem;
+}
+
+.checked {
+    border: 2px solid #a7dcd1;
+    color: #a7dcd1;
+}
+
+.crossed {
+    border: 2px solid #f08781;
+    color: #f08781;
 }
