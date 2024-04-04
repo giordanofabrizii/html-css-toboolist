@@ -26,7 +26,7 @@ header {
 
 header > h1 {
     display: inline-block;
-    vertical-align: bottom;
+    vertical-align: top;
     line-height: 3rem;
 }
 
