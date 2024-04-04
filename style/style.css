@@ -29,3 +29,41 @@ header > h1 {
     vertical-align: bottom;
     line-height: 3rem;
 }
+
+main {
+    width: 80%;
+    margin: 3rem auto;
+}
+
+#button-section {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    padding: 1rem 3rem;
+    margin-bottom: 0.2rem;
+    background-color: white;
+}
+
+button {
+    height: 2rem;
+    padding: 0 0.7rem;
+    border-radius: 0.3rem;
+    border: none;
+}
+
+.blue-background {
+    background-color: #46acf0;
+    color: white;
+    font-weight: 600;
+}
+
+.white-background {
+    background-color: #ffffff;
+    color: #e0e3e6;
+    border: 2px solid #e0e3e6;
+    font-weight: 600;
+}
+
+#task-section {
+    background-color: white;
+    height: 40rem;
+}
