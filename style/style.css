@@ -53,6 +53,9 @@ button {
 .blue-background {
     background-color: #46acf0;
     color: white;
+}
+
+.bold{
     font-weight: 600;
 }
 
@@ -60,7 +63,6 @@ button {
     background-color: #ffffff;
     color: #e0e3e6;
     border: 2px solid #e0e3e6;
-    font-weight: 600;
 }
 
 #task-section {
@@ -94,4 +96,32 @@ li {
 .crossed {
     border: 2px solid #f08781;
     color: #f08781;
+}
+
+.tag{
+    color: white;
+    margin-left: 0.2rem;
+    padding: 0.3rem 0.5rem;
+    border-radius: 0.7rem;
+    font-size: 0.7rem;
+}
+
+.purple-background{
+    background-color: #9c72e4;
+}
+
+.green-background{
+    background-color: #64c0a9;
+}
+
+.orange-background{
+    background-color: #f19d32;
+}
+
+.pink-background{
+    background-color: #d762a0;
+}
+
+.olive-background{
+    background-color: #afc825;
 }
